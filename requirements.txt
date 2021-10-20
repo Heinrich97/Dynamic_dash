@@ -4,3 +4,5 @@ plotly==5.3.1
 dash_core_components==0.44.0
 dash_html_components==0.14.0
 jupyter_dash==0.3.0
+Python version==3.8.8
+IPython version==7.22.0
